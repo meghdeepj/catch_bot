@@ -4,7 +4,7 @@ Author: Meghdeep Jana (mjana)
 Created: September 21, 2021 3:00 PM
 Last Edit: October 3, 2021 6:42 PM
 
-## **Meghdeep Jana (mjana)**                                                10.03.2021
+## **Meghdeep Jana (mjana)**                                               10.03.2021
 
 ## 1 OBJECTIVE
 
@@ -81,30 +81,26 @@ It was evident that 2D search was not the appropriate choice for this problem, s
 
 ## 4 RESULTS
 
-[4.1 Planner runs on all maps](https://www.notion.so/0b42c129334946de8087bde6bf53b992)
-
-### 4.2 Plots of the maps
-
 - Map 1
 
-![Untitled](16782%20Homework%201%20-%20Catch%20me%20if%20you%20can%20c0059da80f7b496f9c99ff886e4dee4f/Untitled.png)
+![Untitled](figures/Untitled.png)
 
 - Map 2
     
-    ![map2_traj.jpg](16782%20Homework%201%20-%20Catch%20me%20if%20you%20can%20c0059da80f7b496f9c99ff886e4dee4f/map2_traj.jpg)
+    ![map2_traj.jpg](figures/map2_traj.jpg)
     
 - Map 3
 
-![Untitled](16782%20Homework%201%20-%20Catch%20me%20if%20you%20can%20c0059da80f7b496f9c99ff886e4dee4f/Untitled%201.png)
+![Untitled](figures/Untitled%201.png)
 
 - Map 4
 
-![Untitled](16782%20Homework%201%20-%20Catch%20me%20if%20you%20can%20c0059da80f7b496f9c99ff886e4dee4f/Untitled%202.png)
+![Untitled](figures/Untitled%202.png)
 
 - Map 5
 
-![Untitled](16782%20Homework%201%20-%20Catch%20me%20if%20you%20can%20c0059da80f7b496f9c99ff886e4dee4f/Untitled%203.png)
+![Untitled](figures/Untitled%203.png)
 
 - Map 6
     
-    ![map6_traj.jpg](16782%20Homework%201%20-%20Catch%20me%20if%20you%20can%20c0059da80f7b496f9c99ff886e4dee4f/map6_traj.jpg)
+    ![map6_traj.jpg](figures/map6_traj.jpg)
