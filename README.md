@@ -1,9 +1,8 @@
-# 16782 Homework 1 - Catch me if you can
+# 16782 Planning and Decision Making in Robotics - Catch me if you can
 
 Author: Meghdeep Jana (mjana)
 Created: September 21, 2021 3:00 PM
 Last Edit: October 3, 2021 6:42 PM
-Tags: Academics
 
 ## **Meghdeep Jana (mjana)**                                                10.03.2021
 
@@ -109,8 +108,3 @@ It was evident that 2D search was not the appropriate choice for this problem, s
 - Map 6
     
     ![map6_traj.jpg](16782%20Homework%201%20-%20Catch%20me%20if%20you%20can%20c0059da80f7b496f9c99ff886e4dee4f/map6_traj.jpg)
-    
-
-## 5 To the instructors
-
-I really enjoyed this assignment, it pushed me to think deeper and harder on the concepts that were taught in the class. I wasn't very confident at the beginning of the course, but going through this assignment has boosted my confidence a bit. Looking forward to future assignments and the project, Thank you.
