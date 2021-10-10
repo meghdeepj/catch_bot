@@ -1,10 +1,11 @@
 # 16782 Planning and Decision Making in Robotics - Catch me if you can
 
-Author: Meghdeep Jana (mjana)
-Created: September 21, 2021 3:00 PM
+Author: Meghdeep Jana (mjana) \
+Created: September 21, 2021 3:00 PM \
 Last Edit: October 3, 2021 6:42 PM
 
-## **Meghdeep Jana (mjana)**                                               10.03.2021
+## Academic Integrity
+If you are currently enrolled in the Graduate 16-782 Planning and Decision Making in Robotics, or the Undergraduate 16-350 Planning Techniques for Robotics course at Carnegie Mellon University, please refer to CMUs Academic Integrity Policy before referring to any of the contents of this repository.
 
 ## 1 OBJECTIVE
 
